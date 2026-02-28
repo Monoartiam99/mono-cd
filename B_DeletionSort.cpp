@@ -21,6 +21,7 @@ int main()
             }
         }
         
+        
         if(sorted){
             cout << n << endl;
         } else {

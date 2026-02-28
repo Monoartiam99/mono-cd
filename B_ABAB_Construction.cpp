@@ -16,6 +16,7 @@ void solve() {
         start = 1;
     }
     
+    
     for (int i = start; i < n; i += 2) {
         char c1 = X[i];
         char c2 = (i + 1 < n) ? X[i + 1] : '?';

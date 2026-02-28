@@ -30,6 +30,7 @@ int main() {
             maxScore = max(maxScore, score);
         }
         
+        
         cout << maxScore << "\n";
     }
     
